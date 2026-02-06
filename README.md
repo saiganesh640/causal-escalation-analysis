@@ -139,4 +139,10 @@ These limitations are intentional trade-offs for transparency and speed.
 
 ---
 
+## Output
+
+<img width="1920" height="1080" alt="output " src="https://github.com/user-attachments/assets/43842000-c808-4619-a69c-95b702191a73" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-07 025429" src="https://github.com/user-attachments/assets/9df27fa2-6256-4182-bdcf-024f7839582f" />
+
+
 
